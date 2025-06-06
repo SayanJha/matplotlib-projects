@@ -14,18 +14,7 @@ Each type of plot has its own dedicated folder containing example scripts, organ
 
 ## 📂 Folder Structure
 
-matplotlib-projects/
-├── line_plots/            # All types of line plots (basic, multiple lines, styles, markers)
-├── scatter_plots/         # Scatter plots with colors, sizes, labels
-├── bar_charts/            # Vertical, horizontal, grouped, customized bar charts
-├── pie_charts/            # Pie charts with labels, explode effect, custom colors
-├── histograms/            # Frequency distribution histograms with adjustable bins
-├── subplots/              # Multiple plots arranged in grid layouts
-├── other_visualizations/  # Heatmaps, polar plots, area charts, and other types
-├── images/                # Saved screenshots or previews of generated plots
-├── data/                  # Sample datasets (CSV, JSON, etc.) used in plots
-├── requirements.txt       # Python dependencies required for the projects
-└── README.md              # Project description and instructions
+<pre> ```bash matplotlib-projects/ │ ├── line_plots/ # All types of line plots ├── scatter_plots/ # Scatter plots with customizations ├── bar_charts/ # Vertical, horizontal, and grouped bar charts ├── pie_charts/ # Pie charts with labels and percentages ├── histograms/ # Frequency distribution plots ├── subplots/ # Multiple plots in a single figure ├── other_visualizations/ # Heatmaps, polar plots, and others ├── images/ # Screenshots/previews of the generated plots ├── data/ # Any datasets (CSV, JSON, etc.) used in plots ├── requirements.txt # Python libraries required for this project └── README.md # This readme file ``` </pre>
 
 
 
